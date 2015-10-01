@@ -1,0 +1,48 @@
+table, th, td{
+    border: 2px;
+    border-collapse: collapse;
+    
+    
+}
+
+
+
+.candidatevote{
+    float: right;
+    margin-right: 570px;
+    margin-top: 50px;
+   
+}
+.radios{
+    float: left;
+    margin-top: 100px;
+}
+th,td{
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+
+table{
+    alignment-adjust: auto;
+    
+}
+h1{
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    background-color: #b20000;
+}
+.voterinfo
+{
+       background-color: #b20000;
+       color: white; 
+}
+
+#display{
+    margin-left: 300px;
+    background-color: #b20000;
+    color: white;
+    font-family: sans-serif;
+}

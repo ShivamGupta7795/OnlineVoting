@@ -1,0 +1,74 @@
+.heading{
+                font-family: sans-serif;
+                text-align: center;
+                font-size: 40px;
+                color: white;
+                text-shadow: 1px 2px 5px grey;
+                background: #00688B;
+}
+ li{
+                display: block;
+            }
+            .cnd{
+                text-align: center;
+                font-family: sans-serif;
+                font-size: 25px;
+                color: #474747;
+                padding-bottom: 50px;
+                
+                }
+            .labone{
+                float: left;
+                font-family: sans-serif;
+                color: #474747;
+            }
+            h3{
+                display: inline;
+            }
+           
+            
+            .button{
+                alignment-adjust: central;
+                font-family: sans-serif;
+                font-size: 20px;
+                margin-left: 150px;
+                color: white;
+                padding-left: 50px;
+                padding-right: 50px;
+                margin-bottom: 25px;
+                background: royalblue;
+                border: 10px;
+                border-color: green;
+            }
+            .voterform{
+                height: 1250px;
+                width:fit-content;
+                margin-left: auto;
+                margin-right: auto;
+                
+                
+            }
+            
+            .voterregis{
+               background: greenyellow; 
+            }
+            
+            #chead
+            {
+                margin-left: 50px;
+                padding-right: 30px;
+            }
+            .mar{
+                background: #00688B;
+                font-family: sans-serif;
+                font-size: 15px;
+                color: white;
+            }
+            
+            .formfill{
+                margin-left: 350px;
+                margin-right: 300px;
+                alignment-adjust: central;
+                
+            }
+            
